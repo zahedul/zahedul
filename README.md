@@ -4,6 +4,9 @@
 🚀 Building scalable backend systems using **Node.js**, **TypeScript**, **Python**, and **AWS**  
 🔧 Passionate about **microservices**, **serverless**, **infrastructure as code**, and **clean architecture**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ---
 
 ## 🧠 What I Do
